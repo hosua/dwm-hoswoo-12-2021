@@ -15,6 +15,8 @@ This README is likely missing some info as I kinda put this together in a few mi
 
 If you have any questions about anything I missed, please leave a comment on the YouTube video and I'll get back to you.
 
+If you want the wallpaper, you can find it in my [Wallpapers repo](https://github.com/hosua/Wallpapers)
+
 
 
 # For the eye candy, the main dependencies you are looking for are:
