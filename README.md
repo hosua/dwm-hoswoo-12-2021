@@ -17,7 +17,7 @@ If you have any questions about anything I missed, please leave a comment on the
 
 
 
-#For the eye candy, the main dependencies you are looking for are:
+# For the eye candy, the main dependencies you are looking for are:
 
 1) conky (For the weather script, and system monitor script that's running on the desktop)
 
