@@ -1,4 +1,4 @@
-This conky script is a fork of [SweetDarkConkyReboot](https://github.com/ragnarokxg/SweetDarkConkyRebootV). 
+This conky Script is a fork of [Accuweather Conky Script](https://forums.bunsenlabs.org/viewtopic.php?id=189). 
 
 This conky script assumes the use of a triple monitor setup, so please change the X and Y coordinates to cater to your needs.
 
