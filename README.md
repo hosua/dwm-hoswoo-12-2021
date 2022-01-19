@@ -11,7 +11,7 @@ Also, if you do happen to use my dwm config (You really should use your own, tho
 read through ``config.h`` to get familiar with the keybindings, and all the programs I use,
 or just change them to whatever you want.
 
-This README is likely missing some info as I kinda put this together in a few minutes.
+This README is likely missing some info as I kinda put this together in a few minutes..
 
 If you have any questions about anything I missed, please leave a comment on the YouTube video and I'll get back to you.
 
